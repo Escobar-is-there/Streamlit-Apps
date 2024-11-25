@@ -1,1 +1,3 @@
-# Streamlit-Apps
+## My Geospatial World Population Dashboard
+
+**[Global Population Explorer](https://)** is an interactive dashboard developed by Imtiaz Azmir to visualize global population data and geographic insights. Utilizing libraries such as Streamlit, Pandas, GeoPandas, Plotly, Folium, and Streamlit-Folium, the dashboard provides a seamless interface for users to explore country-specific population trends, key statistics like area, population density, growth rate, and global population share. Additionally, it integrates a dynamic map to showcase geographical boundaries, combining statistical analysis with geospatial data for an enhanced user experience. This project highlights the power of Python in creating engaging, data-driven visualizations.
