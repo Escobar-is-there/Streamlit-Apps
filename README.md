@@ -11,8 +11,7 @@
 This project represents **Imtiaz Azmir’s** debut in geospatial data visualization, combining Python's robust libraries with storytelling through data. It serves as a showcase of how geospatial analysis and interactive tools can unlock meaningful insights.  
 
 ## 🔗 Live Demo  
-**[Global Population Explorer Dashboard]([https://](https://geospatial-dashboard-19208057.streamlit.app/))** 
-  
+[**Global Population Explorer Dashboard** ]([https://](https://geospatial-dashboard-19208057.streamlit.app/))
 
 ## 📂 Technologies Used  
 - **Python**  
