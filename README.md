@@ -8,7 +8,7 @@
 - 🗺️ **Interactive map** with boundary visualization for geographical context.  
 - 🎨 **User-friendly design** for seamless data exploration.  
 
-This project represents **Imtiaz Azmir’s** debut in geospatial data visualization, combining Python's robust libraries with storytelling through data. It serves as a showcase of how geospatial analysis and interactive tools can unlock meaningful insights.  
+This project represents **Rafiqul Alam Imtiaj’s** debut in geospatial data visualization, combining Python's robust libraries with storytelling through data. It serves as a showcase of how geospatial analysis and interactive tools can unlock meaningful insights.  
 
 ## 🔗 Live Demo  
 https://geospatial-dashboard-19208057.streamlit.app/
@@ -27,4 +27,4 @@ Contributions, feedback, and suggestions are warmly welcomed! Feel free to fork 
 
 ---
 
-**Created by Imtiaz Azmir**  
+**Created by Rafiqul Alam Imtiaj**  
